@@ -2,8 +2,8 @@
 <br>
 Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub/">DevClub</a>
 
-<a href=" https://perimadson35.github.io/Projeto-Easy-Shopping/
-">Link do projeto</a>
+<a href="https://perimadson35.github.io/Projeto-Easy-Shopping/
+">Linkprojeto do </a>
 
 <h2>Tecnologias utilizadas</h2>
   
